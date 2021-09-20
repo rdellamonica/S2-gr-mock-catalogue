@@ -4,7 +4,7 @@ We have produced a mock catalogue for the S2 star in the Galactic Centre, consid
 
 The catalogue has been built by numerically integrating the geodesic equation with the package [PyGRO](https://github.com/rdellamonica/pygro).
 
-In the [Jupyter notebook](S2 - Mock Catalogue.ipynb) you can follow the entire detailed pipeline for the production of the catalogue.
+In the [Jupyter notebook](https://github.com/rdellamonica/S2-gr-mock-catalogue/blob/d489083d57a85c24aedcb596e7e1c645d2794126/S2%20-%20Mock%20Catalogue.ipynb) you can follow the entire detailed pipeline for the production of the catalogue.
 
 ### Plot
 
