@@ -6,7 +6,7 @@ The catalogue has been built by numerically integrating the geodesic equation wi
 
 ### Plot
 
-![Plot of the S2 mock catalogue]("https://github.com/rdellamonica/S2-gr-mock-catalogue/blob/e1e4f26be6b38de2ad5f25c2ad861e4fdadb139d/plots/mock_catalogue_plot.png" "Plot of the S2 mock catalogue") 
+![Plot of the S2 mock catalogue](plots/mock_catalogue_plot.png) 
 
 ### Table
 
