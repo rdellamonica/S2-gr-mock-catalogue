@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this mock catalogue, please cite it as below."
+authors:
+  - family-names: Della Monica
+    given-names: Riccardo
+    orcid: https://orcid.org/0000-0003-4925-7248
+title: "A mock catalogue for the S2 star"
+date-released: 2021-09-27
