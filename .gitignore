@@ -3,6 +3,6 @@ env
 Metrics
 .DS_Store
 Catalogue.ipynb
-mock-data/S2-mock-catalogue-noerr.csv
-mock-data/S2-mock-catalogue-sch.csv
-mock-data/S2-mock-catalogue-sch-new.csv
+**/mock-data/S2-mock-catalogue-noerr.csv
+**/mock-data/S2-mock-catalogue-sch.csv
+**/mock-data/S2-mock-catalogue-sch-new.csv
